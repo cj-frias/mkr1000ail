@@ -13,7 +13,7 @@
             "architecture": "samd",
             "version": "1.8.11",
             "category": "Contributed",
-            "url": "https://cdd.aertecsolutions.com/cjfrias/mkr1000ail_test/-/blob/main/mkr1000-1.8.11.zip",
+            "url": "https://github.com/cj-frias/mkr1000ail/blob/main/mkr1000-1.8.11.zip",
             "archiveFileName": "mkr1000-1.8.11.zip",
             "checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
             "size": "1003",
